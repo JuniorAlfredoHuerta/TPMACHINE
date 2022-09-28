@@ -1,0 +1,18 @@
+Aqui se cambiaron 3 figuras OFF en base a su dificultad
+
+cube.off Un cubo simple
+resultado:  cubitoconvertido.stl
+
+abstr.off una figura irregular con forma de piedra
+resultado:  abstrconvertido.stl
+
+socket.off Un socket modelado en 3D ,confirmando que el
+algoritmo creado por el grupo funciona con figuras
+complejas
+resultado: pruebadeoro.stl
+
+archivos OFF extraidos de:
+https://people.sc.fsu.edu/~jburkardt/data/off/off.html
+
+Si no tiene un programa para visualizar los archivos:
+https://3dviewer.net
